@@ -18,7 +18,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src = "http://g.recordit.co/T7FPBphCvN.gif" width=250><br>
 
 ### Notes
-Not much here - didn't get around to the second part of the Bonus requirements though.
+Not much here - didn't get around to the second part of the Bonus requirements. While the page and view are right, the problem is that the URL wasn't properly formed, leading to an error that crashes the app once the poster in the details screen is tapped on.
 
 ---
 
